@@ -1,3 +1,17 @@
+# CSENOTES
+
+CSENOTES is a free platform for B.Tech CSE students.
+
+📚 Features:
+- Engineering Notes
+- Previous Year Questions (PYQs)
+- Placement Papers
+- Semester Study Material
+
+🌐 Website: https://csenotes.com
+
+🚀 Visit here: https://csenotes.com
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
